@@ -4,6 +4,8 @@
 
 A small Windows app for switching your DNS servers with one click. Save your favorite DNS pairs as profiles, pick a network adapter, and press **Connect** / **Disconnect**.
 
+![screenshot](docs/screenshot.png)
+
 ## Features
 
 - Save any number of DNS profiles (name + primary + secondary IPv4 DNS)
