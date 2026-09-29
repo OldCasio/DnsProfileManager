@@ -17,3 +17,6 @@
 حذف: Settings > Apps > Installed apps > DNS Profile Manager
 
 > چون فایل‌ها امضای دیجیتال ندارند، ممکن است SmartScreen هشدار بدهد: More info > Run anyway.
+
+## سازنده
+اسکریپت اصلی با کمک ChatGPT نوشته شده است. نصب‌کننده، آیکون، قابلیت ویرایش و بسته‌بندی با کمک Claude ساخته شده است.
