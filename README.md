@@ -43,6 +43,11 @@ Install [Inno Setup](https://jrsoftware.org/isinfo.php) 6.3+, open `DnsProfileMa
 
 Right-click `app/DnsProfileManager.ps1` > **Run with PowerShell**.
 
+## Credits
+
+The original script was written with the help of ChatGPT (OpenAI).
+The installer, icon, Edit feature, and packaging were built with the help of Claude (Anthropic).
+
 ## License
 
 [MIT](LICENSE)
